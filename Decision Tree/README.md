@@ -7,6 +7,8 @@ When we want to predict the numerical data, it is called _Regression decision tr
 
 Now i'm interested in the classification tree, so deal with the only classification tree.
 
+![tree](https://user-images.githubusercontent.com/90513931/213912327-5bacba13-d918-43b3-9c34-615d38d1b813.png)
+
 Loss function involve the _misclassification rate_, _cross entropy loss_, _gini index_.
 It is important to decide the decision variable(j) and decision point(s). To decision this, define the 'inpurity', 'purity'. This is calculated by 'Information-Gain' that show the which variable has low entropy. If entropy is reduced, this is important variable.
 
