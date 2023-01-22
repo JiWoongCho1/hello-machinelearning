@@ -1,6 +1,6 @@
 ## Decision Tree
 
-Decision tree is the very tranditional method but this is powerful. Decision trees are made in the form of trees with predictive classification models that represent patterns embedded in data as a combination of variables. Separate the datas that consist of the two or more subset(split data so that it becomes uniform)
+Decision tree is the very tranditional method but this is powerful. Decision trees are made in the form of trees with predictive classification models that represent patterns embedded in data as a combination of variables.(This is similart to 'Akinator' game) Separate the datas that consist of the two or more subset(split data so that it becomes uniform)
 The top part is called root node and the bottom part is called terminal node.
 
 When we want to predict the numerical data, it is called _Regression decision tree_, categorical data, it is called _Classification decision tree_.
