@@ -8,4 +8,6 @@ AdaBoost<A href = "https://github.com/JiWoongCho1/hello-machinelearning/tree/mai
 
 Gradient Boost<A href = "https://github.com/JiWoongCho1/hello-machinelearning/tree/main/machinelearning/Boosting"> Code </A>, <A href = "https://keepgoingrunner.tistory.com/87"> description</A>
 
+Extreme Gradient Boost(XGBoost)<A href = "https://github.com/JiWoongCho1/hello-machinelearning/tree/main/machinelearning/Boosting"> Code </A>, <A href = "https://keepgoingrunner.tistory.com/90"> description</A>
+
 
